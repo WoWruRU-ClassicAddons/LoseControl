@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: LoseControl
+## Notes: Addon used to test functionality on privat server
+## Notes-ruRU: Отображает потерю контроля над персонажем
+## SavedVariablesPerCharacter: LoseControlDB
+
+LoseControl.xml
