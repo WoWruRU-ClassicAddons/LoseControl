@@ -28,8 +28,6 @@ if GetLocale() == "ruRU" then
 		["Polymorph"] = "Превращение",
 		["Polymorph: Turtle"] = "Превращение: черепаха",
 		["Polymorph: Pig"] = "Превращение в свинью",
-		["Polymorph: Cow"] = "Превращение: корова",
-		["Polymorph: Chicken"] = "Полиморф: цыпленок",
 		["Counterspell - Silenced"] = "Антимагия - немота",
 		["Impact"] = "Сотрясение",
 		["Blast Wave"] = "Взрывная волна",

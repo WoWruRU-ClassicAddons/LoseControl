@@ -4,4 +4,5 @@
 ## Notes-ruRU: Отображает потерю контроля над персонажем
 ## SavedVariablesPerCharacter: LoseControlDB
 
-LoseControl.xml
+Localization.lua
+LoseControl.lua
